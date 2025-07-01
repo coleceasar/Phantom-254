@@ -5,7 +5,7 @@ const Pricing = () => {
   const pricingPlans = [
     {
       name: "Starter",
-      price: "KES 1,699,000",
+      price: "KES 250,000",
       description: "Perfect for small bars and restaurants",
       features: [
         "2-tap dispensing system",
@@ -19,7 +19,7 @@ const Pricing = () => {
     },
     {
       name: "Professional",
-      price: "KES 3,249,000",
+      price: "KES 450,000",
       description: "Ideal for medium-sized establishments",
       features: [
         "4-tap dispensing system",
@@ -35,7 +35,7 @@ const Pricing = () => {
     },
     {
       name: "Enterprise",
-      price: "KES 5,979,000",
+      price: "KES 600,000",
       description: "For large venues and chains",
       features: [
         "8-tap dispensing system",
